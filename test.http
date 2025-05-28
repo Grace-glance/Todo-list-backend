@@ -1,0 +1,9 @@
+POST http://192.168.1.217:5000/api/auth/signup
+Content-Type: application/json
+
+{
+    "name": "HELLO WORLD",
+    "email": "helloworldgmail.com",
+    "phonenumber": "+237650066745",
+    "password": "Hello@2025"
+} 
